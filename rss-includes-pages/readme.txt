@@ -3,7 +3,7 @@ Contributors: Marios Alexandrou
 Donate link: https://infolific.com/technology/software-worth-using/include-pages-in-wordpress-rss-feeds/#pro-version
 Tags: rss, feed, feeds, pages feed 
 Requires at least: 5.0
-Tested up to: 6.6
+Tested up to: 6.9
 License: GPLv2 or later
 
 Modifies RSS feeds so that they include pages and not just posts.
